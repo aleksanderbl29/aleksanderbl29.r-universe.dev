@@ -10,7 +10,7 @@ Last deployment: <https://aleksanderbl29.r-universe.dev>
 
 ## Adding a new package to the r-universe
 
-Just commit to [packages.json](https://github.com/aleksanderbl29/aleksanderbl29.r-universe.dev/main/packages.json) with the following information:
+Just commit to [packages.json](https://github.com/aleksanderbl29/aleksanderbl29.r-universe.dev/blob/main/packages.json) with the following information:
 
 ```json
 
