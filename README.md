@@ -15,21 +15,11 @@ Just commit to [packages.json](https://github.com/aleksanderbl29/aleksanderbl29.
 ```json
 
 [
-  ...
-  },
-
   {
     "package": "name_of_the_package",
     "url": "https://url_of_the_repo",
     "branch" : "optional: name_of_the_branch e.g main",
     "subdir": "optional: name_of_the_subdir"
-  },
-
-  ...
-
-  {
-    "package": "dawaR",
-    "url": "https://github.com/aleksanderbl29/dawaR"
   }
 ]
 ```
