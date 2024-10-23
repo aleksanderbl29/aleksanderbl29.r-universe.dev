@@ -23,6 +23,6 @@ df <- data.frame(
   package = c(packages, ropengov_pkgs),
   url = c(pkg_url(packages), ropengov_pkg_url(ropengov_pkgs)),
   branch = c("universe-release",
-              rep("NA", length(ropengov_pkgs) + length(packages) - 1))
+              rep(NA, length(ropengov_pkgs) + length(packages) - 1))
 )
 jsonlite::write_json(df, "packages.json", pretty = TRUE)
