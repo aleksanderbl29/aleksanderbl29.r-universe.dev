@@ -17,6 +17,11 @@ ropengov_pkgs <- c(
   "dkdata"
 )
 
+packages <- c(
+  packages,
+  ropengov_pkgs
+)
+
 pkg_url(packages)
 
 df <- data.frame(
