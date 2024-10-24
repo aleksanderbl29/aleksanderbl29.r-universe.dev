@@ -7,8 +7,10 @@ ropengov_pkg_url <- function(name) {
 }
 
 packages <- c(
+  "aleksandeR",
   "dawaR",
-  "aleksandeR"
+  "geodk",
+  "dkdata"
 )
 
 ropengov_pkgs <- c(
@@ -17,12 +19,8 @@ ropengov_pkgs <- c(
   "dkdata"
 )
 
-packages <- c(
-  packages,
-  ropengov_pkgs
-)
-
 pkg_url(packages)
+ropengov_pkg_url(ropengov_pkgs)
 
 df <- data.frame(
   package = c(packages, ropengov_pkgs),

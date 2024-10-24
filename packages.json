@@ -1,12 +1,8 @@
 [
   {
-    "package": "dawaR",
-    "url": "https://github.com/aleksanderbl29/dawaR",
-    "branch": "universe-release"
-  },
-  {
     "package": "aleksandeR",
-    "url": "https://github.com/aleksanderbl29/aleksandeR"
+    "url": "https://github.com/aleksanderbl29/aleksandeR",
+    "branch": "universe-release"
   },
   {
     "package": "dawaR",
