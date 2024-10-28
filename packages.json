@@ -11,9 +11,5 @@
   {
     "package": "geodk",
     "url": "https://github.com/aleksanderbl29/geodk"
-  },
-  {
-    "package": "dkdata",
-    "url": "https://github.com/aleksanderbl29/dkdata"
   }
 ]
