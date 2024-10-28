@@ -1,12 +1,12 @@
 [
   {
-    "package": "aleksandeR",
-    "url": "https://github.com/aleksanderbl29/aleksandeR",
+    "package": "dawaR",
+    "url": "https://github.com/aleksanderbl29/dawaR",
     "branch": "universe-release"
   },
   {
-    "package": "dawaR",
-    "url": "https://github.com/aleksanderbl29/dawaR"
+    "package": "aleksandeR",
+    "url": "https://github.com/aleksanderbl29/aleksandeR"
   },
   {
     "package": "geodk",
@@ -15,17 +15,5 @@
   {
     "package": "dkdata",
     "url": "https://github.com/aleksanderbl29/dkdata"
-  },
-  {
-    "package": "dawaR",
-    "url": "https://github.com/ropengov/dawaR"
-  },
-  {
-    "package": "geodk",
-    "url": "https://github.com/ropengov/geodk"
-  },
-  {
-    "package": "dkdata",
-    "url": "https://github.com/ropengov/dkdata"
   }
 ]
