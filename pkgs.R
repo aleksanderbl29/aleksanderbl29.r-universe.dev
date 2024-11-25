@@ -8,12 +8,10 @@ ropengov_pkg_url <- function(name) {
 
 packages <- c(
   "dawaR",
-  "aleksandeR",
-  "geodk"
+  "aleksandeR"
 )
 
 ropengov_pkgs <- c(
-  # "dawaR",
   # "dkdata",
   "geodk"
 )
