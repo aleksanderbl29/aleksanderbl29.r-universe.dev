@@ -11,5 +11,9 @@
   {
     "package": "broomstick",
     "url": "https://github.com/njtierney/broomstick"
+  },
+  {
+    "package": "hexsession",
+    "url": "https://github.com/luisDVA/hexsession"
   }
 ]

@@ -13,14 +13,14 @@ my_packages <- c(
 )
 
 other_packages <- c(
-  "broomstick"
+  "broomstick",
+  "hexsession"
 )
 
 other_urls <- c(
-  "https://github.com/njtierney/broomstick"
+  "https://github.com/njtierney/broomstick",
+  "https://github.com/luisDVA/hexsession"
 )
-
-pkg_url(packages)
 
 df <- data.frame(
   package = c(my_packages, other_packages),
