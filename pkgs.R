@@ -13,12 +13,12 @@ my_packages <- c(
 )
 
 other_packages <- c(
-  "broomstick",
+  # "broomstick",
   "hexsession"
 )
 
 other_urls <- c(
-  "https://github.com/njtierney/broomstick",
+  # "https://github.com/njtierney/broomstick",
   "https://github.com/luisDVA/hexsession"
 )
 
