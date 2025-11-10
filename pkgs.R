@@ -9,6 +9,7 @@ ropengov_pkg_url <- function(name) {
 my_packages <- c(
   "dawaR",
   # "dkdatadist",
+  "rsthemes",
   "aleksandeR"
 )
 
@@ -25,7 +26,7 @@ other_urls <- c(
 df <- data.frame(
   package = c(my_packages, other_packages),
   url = c(pkg_url(my_packages), other_urls),
-  branch = c("universe-release",
-    rep(NA, length(my_packages) + length(other_packages) - 1))
+  branch = c("universe-release", "catppuccin",
+    rep(NA, length(my_packages) - 1 + length(other_packages) - 1))
 )
 jsonlite::write_json(df, "packages.json", pretty = TRUE)
