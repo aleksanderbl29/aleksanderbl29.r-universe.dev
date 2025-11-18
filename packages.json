@@ -5,11 +5,6 @@
     "branch": "universe-release"
   },
   {
-    "package": "rsthemes",
-    "url": "https://github.com/aleksanderbl29/rsthemes",
-    "branch": "catppuccin"
-  },
-  {
     "package": "aleksandeR",
     "url": "https://github.com/aleksanderbl29/aleksandeR"
   },
