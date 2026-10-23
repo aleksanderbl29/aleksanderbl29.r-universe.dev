@@ -8,7 +8,7 @@ ropengov_pkg_url <- function(name) {
 
 my_packages <- c(
   "dawaR",
-  # "dkdatadist",
+  "dkdatadist",
   "aleksandeR"
 )
 
